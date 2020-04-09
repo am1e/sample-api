@@ -1,8 +1,52 @@
 {
     "guidesList": [
-        { "id": 1, "heading": "topic", "text": "hello https://polkadot.network" },
-        { "id": 2, "heading": "anoth", "text": "hello https://polkadot.network" },
-        { "id": 3, "heading": "whew", "text": "hello https://polkadot.network" },
-        { "id": 4, "heading": "best", "text": "hello https://polkadot.network" }
+        {
+            "id": 1,
+            "heading": "topic",
+            "text": "hello https://polkadot.network",
+            "steps": [
+                { "id": 1, "text": "do this" },
+                { "id": 2, "text": "do that" },
+                { "id": 3, "text": "something" },
+                { "id": 4, "text": "do this thing" },
+                { "id": 5, "text": "do other stuff" }
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "anoth",
+            "text": "helloa https://polkadot.network",
+            "steps": [
+                { "id": 1, "text": "do this" },
+                { "id": 2, "text": "do that" },
+                { "id": 3, "text": "something" },
+                { "id": 4, "text": "do this thing" },
+                { "id": 5, "text": "do other stuff" }
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "whew",
+            "text": "hellow https://polkadot.network",
+            "steps": [
+                { "id": 1, "text": "do this" },
+                { "id": 2, "text": "do that" },
+                { "id": 3, "text": "something" },
+                { "id": 4, "text": "do this thing" },
+                { "id": 5, "text": "do other stuff" }
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "best",
+            "text": "hellob https://polkadot.network",
+            "steps": [
+                { "id": 1, "text": "do this" },
+                { "id": 2, "text": "do that" },
+                { "id": 3, "text": "something" },
+                { "id": 4, "text": "do this thing" },
+                { "id": 5, "text": "do other stuff" }
+            ]
+        }
     ]
 }
