@@ -7,7 +7,7 @@
             "steps": [
                 { "id": 1, "text": "do this" },
                 { "id": 2, "text": "do that" },
-                { "id": 3, "text": "something" },
+                { "id": 3, "text": "sadhjkjhsomething" },
                 { "id": 4, "text": "do this thing" },
                 { "id": 5, "text": "do other stuff" }
             ]
@@ -18,10 +18,10 @@
             "text": "helloa https://polkadot.network",
             "steps": [
                 { "id": 1, "text": "do this" },
-                { "id": 2, "text": "do that" },
+                { "id": 2, "text": "do tsadjhat" },
                 { "id": 3, "text": "something" },
-                { "id": 4, "text": "do this thing" },
-                { "id": 5, "text": "do other stuff" }
+                { "id": 4, "text": "1987Bkjh6562do this thing" },
+                { "id": 5, "text": "aoiqwodo other stuff" }
             ]
         },
         {
@@ -29,11 +29,11 @@
             "heading": "whew",
             "text": "hellow https://polkadot.network",
             "steps": [
-                { "id": 1, "text": "do this" },
-                { "id": 2, "text": "do that" },
-                { "id": 3, "text": "something" },
-                { "id": 4, "text": "do this thing" },
-                { "id": 5, "text": "do other stuff" }
+                { "id": 1, "text": "dwHJGo this" },
+                { "id": 2, "text": "PO230do that" },
+                { "id": 3, "text": "somESRJKHething" },
+                { "id": 4, "text": "d643o this thing" },
+                { "id": 5, "text": "do o3KHGKC 3ther stuff" }
             ]
         },
         {
@@ -41,11 +41,11 @@
             "heading": "best",
             "text": "hellob https://polkadot.network",
             "steps": [
-                { "id": 1, "text": "do this" },
-                { "id": 2, "text": "do that" },
-                { "id": 3, "text": "something" },
-                { "id": 4, "text": "do this thing" },
-                { "id": 5, "text": "do other stuff" }
+                { "id": 1, "text": "do 34ACNBthis" },
+                { "id": 2, "text": "do thaASVRt" },
+                { "id": 3, "text": "somRVQTething" },
+                { "id": 4, "text": "do this thin454Vg" },
+                { "id": 5, "text": "do otheSVT43r stuff" }
             ]
         }
     ]
